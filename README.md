@@ -7,6 +7,6 @@ Created for Coursera  "The Data Scientist’s Toolbox Course"
 # 1st title
 ## this is  secondary 
 * AA
-*BB
-*CC
+* BB
+* CC
 ### 3rd heading 
